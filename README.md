@@ -1,16 +1,25 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Lina Aloqayli</h1>
 <h3 align="center">Python Developer from Saudi Arabia</h3>
+
+
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
 
 
-__________________________________________________________________________
+
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linamohamed89&label=Profile%20views&color=0e75b6&style=flat" alt="linamohamed89" /> </p>
 
+
+
+
+
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=linamohamed89" alt="linamohamed89" /></a> </p>
+____________________________________________________________________________
 
 - 🔭 I’m currently working on **Mystro Gmbh**
 
