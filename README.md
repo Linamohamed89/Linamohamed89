@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Lina Aloqayli</h1>
 
 <h3 align="center">Python Developer from Saudi Arabia</h3>
-<h4 align="center">Python Full Stack Developer</h4>
+<h4 align="center">PHP & Python Full Stack Developer</h4>
 
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
